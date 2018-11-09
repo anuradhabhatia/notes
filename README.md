@@ -1,6 +1,6 @@
 # Notes
 
 - Big Data Analytics
-- Data Structure
+- Data Structure and Analysis
 - Software Engineering
 - Structured Programming Approach
